@@ -12,7 +12,6 @@ BoomBikes aspires to understand the demand for shared bikes among the people aft
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
 - A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. 
   The company is finding it very difficult to sustain in the current market scenario.
 - BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to   prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
@@ -28,5 +27,4 @@ BoomBikes aspires to understand the demand for shared bikes among the people aft
 
 
 ## Contact
-Created by  - BhaweshGH feel free to contact me!
-
+Created by  - BhaweshGH- bschavan55@gmail.com
